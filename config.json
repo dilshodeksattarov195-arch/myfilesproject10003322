@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfecrypt",
+        "uuid": 18699538,
+        "checksum": "5reby9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
